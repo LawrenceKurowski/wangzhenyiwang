@@ -2,8 +2,8 @@ site_name: 王貞儀網
 
 nav:
   - Home: index.md
-  - 德風亭初級:
-    - 卷一：序.md
+  # - 德風亭初級:
+  #   - 卷一：序.md
 
 theme:
     name: windmill
